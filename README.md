@@ -1,2 +1,2 @@
 # MVVM Shopping List 
-## Tutorial by phillip lackner
+## Tutorial by **[Phillip Lackner](https://youtu.be/cfcyYO7osnk)**
