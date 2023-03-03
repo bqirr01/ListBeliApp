@@ -1,1 +1,0 @@
-Guguk hitam     
